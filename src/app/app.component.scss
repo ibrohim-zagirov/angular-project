@@ -1,0 +1,12 @@
+.user-item {
+  border: 1px solid blue;
+  display: flex;
+  width: 300px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.user-item:hover {
+  background-color: aquamarine;
+  transition: 1s;
+}
